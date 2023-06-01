@@ -12,7 +12,7 @@ In the 00s, I was as a brand designer in [London](https://saatchi.co.uk/). Now I
 * [Library of Economic Possibility website](https://www.callumflack.design/the-library-of-economic-possibility)
 * [Replier](https://www.replier.app/)
 
-🐾 I also write about what I know:
+🐾 I write about what I know:
 
 * [The instantaneous language of beauty](https://www.callumflack.design/the-instantaneous-language-of-beauty)
 * [The difference between iteration and prototyping](https://www.callumflack.design/iteration-and-prototyping)
