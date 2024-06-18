@@ -4,7 +4,7 @@ I'm Callum. I'm a designer who codes with over 20 years of experience in brand d
 
 In the 00s, I was as a brand designer in [London](https://saatchi.co.uk/). Now I work as a frontend engineer at [Vana](https://www.vana.com), an AI start-up in San Francisco. Prior to this, I built [Cleared](https://getcleared.com/) from the initial commit through to its [sale](https://www.crunchbase.com/acquisition/lifemd-acquires-cleared--a1f894e0).
 
-🌞 Recent projects include:
+Recent projects include:
 
 * [Vana Portrait app](https://www.callumflack.design/vana)
 * [Studio Round website](https://www.callumflack.design/studio-round)
@@ -12,13 +12,13 @@ In the 00s, I was as a brand designer in [London](https://saatchi.co.uk/). Now I
 * [Library of Economic Possibility website](https://www.callumflack.design/the-library-of-economic-possibility)
 * [Replier](https://www.replier.app/)
 
-🐾 I write about what I know:
+I write about what I know:
 
 * [The instantaneous language of beauty](https://www.callumflack.design/the-instantaneous-language-of-beauty)
 * [The difference between iteration and prototyping](https://www.callumflack.design/iteration-and-prototyping)
 * [The matter of taste](https://www.callumflack.design/the-matter-of-taste)
 
-🏕️ Best way to find me is:
+Best way to find me is:
 * [My website](https://www.callumflack.design)
 * [Read CV](https://read.cv/callum)
 
