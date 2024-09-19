@@ -1,6 +1,14 @@
 ### Hey 👋
 
-I'm Callum. I'm a designer who codes with over two decades of experience in design, and over a decade in web engineering. I work best as a bridgehead across product design possibilities and the reality of technical implementation.
+I'm Callum. I'm a designer who codes with over two decades of experience in design, and over a decade in web engineering. 
+
+Best way to find me is:
+* [My website](https://www.callum.website)
+* [Txitter](https://twitter.com/callumflack)
+
+
+<!--
+I work best as a bridgehead across design possibilities and the reality of technical implementation.
 
 Recent projects include:
 
@@ -14,11 +22,6 @@ I write about what I know:
 * [The instantaneous language of beauty](https://www.callum.website/the-instantaneous-language-of-beauty)
 * [The matter of taste](https://www.callum.website/the-matter-of-taste)
 
-Best way to find me is:
-* [My website](https://www.callum.website)
-
-
-<!--
 **callumflack/callumflack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
