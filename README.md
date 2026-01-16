@@ -1,6 +1,6 @@
-### Hey 👋
+### Hey I'm Callum 👋
 
-I'm Callum. I research, design + code beautiful hypertext products that work in the blink of an eye.
+I research, design + code beautiful hypertext products that work in the blink of an eye.
 
 Best way to find me is:
 * [My website](https://www.callum.website)
